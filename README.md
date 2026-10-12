@@ -4,7 +4,7 @@ A full-stack platform to design, backtest and analyze systematic trading strateg
 Pick a ticker, choose one of 11 built-in technical strategies or write your own, and see every trade,
 the equity of the strategy and the price history side by side.
 
-**Live demo:** [chawla2255.github.io/algotrade](https://chawla2255.github.io/algotrade) &nbsp;·&nbsp; built May to July 2025
+**Live demo:** [chawlayuvraj.github.io/AlgoTrade_Frontend](https://chawlayuvraj.github.io/AlgoTrade_Frontend) &nbsp;·&nbsp; built May to July 2025
 
 <!-- screenshot: docs/trade.png (backtest view) -->
 
